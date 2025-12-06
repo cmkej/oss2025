@@ -40,6 +40,27 @@ http://localhost:8501/
 
 
 
+## 예시 URL
+네이버 뉴스:
+https://n.news.naver.com/article/008/0005288155?cds=news_media_pc&type=editn
+
+ZDNET Korea:
+https://zdnet.co.kr/view/?no=20251205152520
+
+중앙일보:
+https://www.joongang.co.kr/article/25387769
+
+
+
+## 결과 화면
+<img width="2849" height="1468" alt="스크린샷 2025-12-06 112100" src="https://github.com/user-attachments/assets/2c7ae78e-ee8b-4f3f-bf24-09796a319939" />
+### 실행 화면
+<img width="2616" height="1402" alt="image" src="https://github.com/user-attachments/assets/15b69dce-1dcf-46e6-881a-0ceee1f7b1da" />
+<img width="2616" height="1402" alt="image" src="https://github.com/user-attachments/assets/a1ff9048-cfb1-4c9b-a69d-3ade48275f5c" />
+<img width="2616" height="1402" alt="image" src="https://github.com/user-attachments/assets/2540ad32-515a-47ef-93b4-967b846a468b" />
+
+
+
 ## Web Cleaner 기능
 
 ### 본문 추출 기능
