@@ -21,10 +21,19 @@ GitHub 저장소의 파일을 다운로드하여 다음과 같은 구조로 맞�
 ```
 project/
 │── app.py
-│── cleanser/
-│ ├── fetcher.py
-│ ├── cleaner.py
-└ └── summarizer.py
+├── cleanser/
+│   ├── __init__.py
+│   ├── fetcher.py
+│   ├── cleaner.py
+│   ├── summarizer.py
+│   ├── parser.py
+│   ├── ad_filter.py
+│   ├── readability_utils.py
+│   ├── utils.py
+│   │
+│   └── data/
+│       ├── ad_keywords.json
+└────── └── css_remove_list.json
 ```
 
 ### 3. 실행
