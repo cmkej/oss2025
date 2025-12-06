@@ -48,7 +48,7 @@ ZDNET Korea:
 https://zdnet.co.kr/view/?no=20251205152520
 
 중앙일보:
-https://www.joongang.co.kr/article/25387769
+https://www.joongang.co.kr/article/25387888
 
 
 
