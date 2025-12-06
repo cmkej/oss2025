@@ -1,0 +1,13 @@
+{
+  "selectors": [
+    ".ad-banner",
+    ".advertisement",
+    ".sponsor",
+    "#sponsor",
+    ".sidebar",
+    ".adsbygoogle",
+    "iframe",
+    "nav",
+    "header"
+  ]
+}
